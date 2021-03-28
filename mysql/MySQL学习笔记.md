@@ -23,7 +23,7 @@ CREATE DATABASE test;
 use test;
 
 -- 显示数据库中的所有表
-show tables;
+SHOW tables;
 
 -- 创建数据表
 CREATE TABLE pet (
